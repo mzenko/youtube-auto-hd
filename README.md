@@ -1,4 +1,7 @@
-# YouTube Auto HD + FPS
+# This is a fork of https://github.com/avi12/youtube-auto-hd, removing the annoying popups
+
+
+## YouTube Auto HD + FPS
 
 A browser extension that sets the quality of YouTube videos according to the user's preference, based on the video's
 FPS.
